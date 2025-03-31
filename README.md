@@ -17,14 +17,26 @@ A collection of **minimal and aesthetic animations** created using **HTML5 Canva
 
 ## 🖌️ Available Animations  
 
+
 | Animation Name               | Description |
 |------------------------------|-------------|
 | **✨ Particle Background**    | Floating particles with link effects (like Particles.js) |
 | **🚀 Warp Speed Starfield**   | A hyper-speed star tunnel effect (Space Warp) |
-| **🟢 Floating Orbs**          | Orbs Floating around |
-| **🌧️ Pixel Rain**             | Pixels Raining |
-| **🔥 Firefly Effect**         | Random glowing particles moving like fireflies |
+| **🟢 Floating Orbs**          | Orbs Floating around randomly |
+| **🌧️ Pixel Rain**             | Pixels falling like digital rain |
+| **🔥 Firefly Effect**         | Random glowing particles moving naturally like fireflies |
 | **🌊 Waves / Sine Animation** | Soft-moving wave lines for a smooth aesthetic |
+| **💥 Explosion Effect**       | Particles expanding outward in an explosion-like effect |\
+| **🎆 Fireworks Display**      | Random colorful fireworks bursting at different points
+| **🌪️ Swirling Vortex**        | A spinning vortex of particles moving towards the center
+| **🔵 Bubble Float**           | Bubbles of different sizes floating upwards and popping
+| **⚡ Lightning Strikes**      | Random streaks of lightning flashing across the screen
+| **☁️ Fog / Smoke Effect**     | A smooth, rolling fog effect for a mysterious feel
+| **🌠 Shooting Stars**         | Stars moving in random directions like a meteor shower
+| **🌊 Water Ripple Effect**    | Realistic ripples spreading out when clicked
+| **🌫️ Misty Glow Particles**   | Slow-moving mist particles with a glowing aura
+
+
 
 ## 🛠️ Usage  
 

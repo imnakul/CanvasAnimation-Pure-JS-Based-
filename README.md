@@ -43,7 +43,6 @@ However, for **complex, interactive, and performance-optimized graphics**, Canva
 
 | Animation Name               | Description |
 |------------------------------|-------------|
-| **✨ Particle Background**    | Floating particles with link effects (like Particles.js) |
 | **🚀 Warp Speed Starfield**   | A hyper-speed star tunnel effect (Space Warp) |
 | **🟢 Floating Orbs**          | Orbs Floating around randomly |
 | **🌧️ Pixel Rain**             | Pixels falling like digital rain |

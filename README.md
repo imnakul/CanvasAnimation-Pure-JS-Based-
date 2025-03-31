@@ -1,7 +1,9 @@
 
 # 🎨 Canvas Animated Backgrounds  
 
-![Canvas Animations Logo](logo.png)  
+<p align="center">
+  <img src="logo.png" alt="Canvas Animations Logo" width="200px" >
+</p>  
 
 A collection of **minimal and aesthetic animations** created using **HTML5 Canvas & JavaScript**—no external libraries needed! 🚀  
 
